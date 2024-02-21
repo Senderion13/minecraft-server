@@ -1,0 +1,124 @@
+[13:24:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:24:19] [ServerMain/INFO]: Loaded 7 recipes
+[13:24:19] [ServerMain/INFO]: Loaded 1271 advancements
+[13:24:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:24:20] [Server thread/INFO]: Loading properties
+[13:24:20] [Server thread/INFO]: Default game type: SURVIVAL
+[13:24:20] [Server thread/INFO]: Generating keypair
+[13:24:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:24:21] [Server thread/INFO]: Using epoll channel type
+[13:24:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:24:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:24:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:24:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:24:21] [Server thread/INFO]: Preparing level "world"
+[13:24:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:24:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:24:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:24:27] [Worker-Main-4/INFO]: Preparing spawn area: 26%
+[13:24:27] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[13:24:27] [Server thread/INFO]: Time elapsed: 4536 ms
+[13:24:27] [Server thread/INFO]: Done (6.441s)! For help, type "help"
+[13:24:27] [Server thread/INFO]: Starting remote control listener
+[13:24:27] [Server thread/INFO]: Thread RCON Listener started
+[13:24:27] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[13:25:57] [Server thread/INFO]: Senderion[/172.19.0.1:51858] logged in with entity id 209 at (-55.28872485730788, 103.0, -97.16517738338726)
+[13:25:57] [Server thread/INFO]: Senderion joined the game
+[13:26:39] [Server thread/INFO]: hyp0cr1t3[/172.19.0.1:37644] logged in with entity id 414 at (23.5, 91.0, -40.5)
+[13:26:39] [Server thread/INFO]: hyp0cr1t3 joined the game
+[13:28:01] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Stone Age]
+[13:28:25] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Getting an Upgrade]
+[13:28:32] [Server thread/INFO]: Senderion has made the advancement [Getting an Upgrade]
+[13:29:24] [Server thread/INFO]: Senderion has made the advancement [Stone Age]
+[13:30:50] [Server thread/INFO]: Senderion lost connection: Disconnected
+[13:30:50] [Server thread/INFO]: Senderion left the game
+[13:30:51] [Server thread/INFO]: Senderion[/172.19.0.1:45892] logged in with entity id 1143 at (-2.5188343881529436, 91.0, -68.32310790848616)
+[13:30:51] [Server thread/INFO]: Senderion joined the game
+[13:33:34] [Server thread/INFO]: Senderion has made the advancement [Monster Hunter]
+[13:33:53] [Server thread/INFO]: Senderion was slain by Zombie
+[13:33:54] [Server thread/WARN]: Senderion moved too quickly! 11.800000011920929,-4.0,22.80000001192093
+[13:33:54] [Server thread/WARN]: Senderion moved too quickly! 11.800000011920929,-4.0,22.80000001192093
+[13:39:16] [Server thread/INFO]: awaken[/172.19.0.1:46632] logged in with entity id 2813 at (13.5, 91.0, -44.5)
+[13:39:16] [Server thread/INFO]: awaken joined the game
+[13:42:10] [Server thread/INFO]: awaken lost connection: Disconnected
+[13:42:10] [Server thread/INFO]: awaken left the game
+[13:42:15] [Server thread/INFO]: awaken[/172.19.0.1:40418] logged in with entity id 3407 at (0.5849835064060961, 92.0, -67.49390966000392)
+[13:42:15] [Server thread/INFO]: awaken joined the game
+[13:44:24] [Server thread/INFO]: awaken has made the advancement [Stone Age]
+[13:44:36] [Server thread/INFO]: awaken has made the advancement [Getting an Upgrade]
+[13:55:31] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Monster Hunter]
+[13:55:56] [Server thread/INFO]: awaken has made the advancement [Monster Hunter]
+[14:00:58] [Server thread/INFO]: awaken has made the advancement [Sneak 100]
+[14:02:14] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Acquire Hardware]
+[14:02:31] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Isn't It Iron Pick]
+[14:03:16] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Diamonds!]
+[14:04:04] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Suit Up]
+[14:07:09] [Server thread/INFO]: awaken was slain by Senderion
+[14:11:07] [Server thread/INFO]: awaken has made the advancement [Acquire Hardware]
+[14:11:37] [Server thread/INFO]: awaken has made the advancement [Isn't It Iron Pick]
+[14:14:02] [Server thread/INFO]: awaken was blown up by Creeper
+[14:15:27] [Server thread/INFO]: Senderion has made the advancement [Acquire Hardware]
+[14:15:33] [Server thread/INFO]: Senderion has made the advancement [Suit Up]
+[14:30:36] [Server thread/INFO]: awaken has made the advancement [Suit Up]
+[14:54:51] [Server thread/INFO]: awaken was doomed to fall by Creeper
+[15:03:41] [Server thread/INFO]: [Not Secure] <awaken> XYZ: 0 / 91 / -68
+[15:05:07] [Server thread/INFO]: Bebra (/172.19.0.1:37136) lost connection: Disconnected
+[15:07:29] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=808, y=64, z=-198} hx{x=809, y=62, z=-198}
+[15:11:01] [Server thread/INFO]: Villager cev['Villager'/26397, l='ServerLevel[world]', x=1341.20, y=72.56, z=-311.74] died, message: 'Villager was slain by Husk'
+[15:15:29] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Ice Bucket Challenge]
+[15:16:56] [Server thread/INFO]: hyp0cr1t3 has made the advancement [Who is Cutting Onions?]
+[15:20:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1554, y=64, z=-488} hx{x=1554, y=62, z=-487}
+[15:20:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1554, y=64, z=-488} hx{x=1554, y=62, z=-487}
+[15:20:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1554, y=64, z=-488} hx{x=1554, y=62, z=-487}
+[15:20:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1554, y=64, z=-487} hx{x=1554, y=62, z=-487}
+[15:20:20] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1543, y=64, z=-512} hx{x=1542, y=62, z=-513}
+[15:20:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1552, y=64, z=-553} hx{x=1553, y=61, z=-552}
+[15:21:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1673, y=64, z=-637} hx{x=1672, y=63, z=-636}
+[15:27:14] [Server thread/INFO]: Villager cev['Librarian'/32524, l='ServerLevel[world]', x=1717.70, y=61.00, z=-678.70] died, message: 'Librarian was slain by Husk'
+[15:27:34] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1871, y=64, z=-779} hx{x=1873, y=62, z=-780}
+[15:30:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=2115, y=64, z=-783} hx{x=2113, y=62, z=-782}
+[15:37:42] [Server thread/INFO]: Senderion hit the ground too hard
+[15:37:43] [Server thread/WARN]: Senderion moved too quickly! 23.914939934376093,11.0,8.374486050320414
+[15:37:43] [Server thread/WARN]: Senderion moved too quickly! 23.914939934376093,11.0,8.374486050320414
+[16:02:48] [Server thread/INFO]: Senderion has made the advancement [Who is Cutting Onions?]
+[16:05:45] [Server thread/INFO]: [Not Secure] <awaken> athvf*&
+[16:05:48] [Server thread/INFO]: [Not Secure] <awaken> ферма*?
+[17:04:19] [Server thread/INFO]: hyp0cr1t3 has made the advancement [We Need to Go Deeper]
+[17:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:05:34] [Server thread/INFO]: Senderion has made the advancement [We Need to Go Deeper]
+[17:12:08] [Server thread/INFO]: Senderion lost connection: Disconnected
+[17:12:08] [Server thread/INFO]: Senderion left the game
+[17:22:03] [Server thread/INFO]: awaken has made the advancement [Diamonds!]
+[17:23:07] [Server thread/INFO]: hyp0cr1t3 tried to swim in lava
+[17:27:01] [Server thread/INFO]: hyp0cr1t3 lost connection: Disconnected
+[17:27:01] [Server thread/INFO]: hyp0cr1t3 left the game
+[17:28:51] [Server thread/INFO]: Senderion[/172.19.0.1:38750] logged in with entity id 77269 at (-0.3512290680678458, 90.0, -25.73403010685809)
+[17:28:51] [Server thread/INFO]: Senderion joined the game
+[17:29:00] [Server thread/INFO]: hyp0cr1t3[/172.19.0.1:55954] logged in with entity id 77437 at (-2.7327215764445976, 98.5, -44.84387634919283)
+[17:29:00] [Server thread/INFO]: hyp0cr1t3 joined the game
+[17:30:56] [Server thread/INFO]: hyp0cr1t3 lost connection: Disconnected
+[17:30:56] [Server thread/INFO]: hyp0cr1t3 left the game
+[17:36:11] [Server thread/INFO]: Senderion lost connection: Disconnected
+[17:36:11] [Server thread/INFO]: Senderion left the game
+[17:36:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[17:36:44] [Server thread/INFO]: [Rcon: Stopping the server]
+[17:36:44] [Server thread/INFO]: Stopping server
+[17:36:44] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[17:36:44] [Server thread/INFO]: Saving players
+[17:36:44] [Server thread/INFO]: awaken lost connection: Server closed
+[17:36:44] [Server thread/INFO]: awaken left the game
+[17:36:44] [Server thread/INFO]: Saving worlds
+[17:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:36:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:36:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:36:51] [Server thread/INFO]: Thread RCON Listener stopped
